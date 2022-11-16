@@ -1,0 +1,30 @@
+<template>
+    <div class="container footer">
+        <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
+            <div class="col-md-4 d-flex justify-content-start">
+                <span class="powered mb-md-0 text-muted">Powered by WeiHenSu © 2022</span>
+            </div>
+            <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+                <li class="ms-3"><a class="text-muted" href="https://www.twitter.com/" target="_blank"><i class="bi bi-twitter" style="font-size: 24px;"></i></a></li>
+                <li class="ms-3"><a class="text-muted" href="https://www.instagram.com/" target="_blank"><i class="bi bi-instagram" style="font-size: 24px;"></i></a></li>
+                <li class="ms-3"><a class="text-muted" href="https://www.facebook.com/" target="_blank"><i class="bi bi-facebook" style="font-size: 24px;"></i></a></li>
+            </ul>
+        </footer>
+    </div>
+</template>
+
+<script>
+    //引入bootstrap icon css
+    import "../../node_modules/bootstrap-icons/font/bootstrap-icons.css"
+    export default {
+        name: "NBAFooter",
+    }
+</script>
+
+<style>
+    @media(max-width:425px){
+        .powered{
+            font-size: 14px;
+        }
+    }
+</style>

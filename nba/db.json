@@ -1,0 +1,1281 @@
+{
+  "teams": [
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Atlanta",
+        "altCityName": "Atlanta",
+        "fullName": "Atlanta Hawks",
+        "tricode": "ATL",
+        "teamId": "1610612737",
+        "nickname": "Hawks",
+        "urlName": "hawks",
+        "teamShortName": "Atlanta",
+        "confName": "East",
+        "divName": "Southeast"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Boston",
+        "altCityName": "Boston",
+        "fullName": "Boston Celtics",
+        "tricode": "BOS",
+        "teamId": "1610612738",
+        "nickname": "Celtics",
+        "urlName": "celtics",
+        "teamShortName": "Boston",
+        "confName": "East",
+        "divName": "Atlantic"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Brooklyn",
+        "altCityName": "Brooklyn",
+        "fullName": "Brooklyn Nets",
+        "tricode": "BKN",
+        "teamId": "1610612751",
+        "nickname": "Nets",
+        "urlName": "nets",
+        "teamShortName": "Brooklyn",
+        "confName": "East",
+        "divName": "Atlantic"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Charlotte",
+        "altCityName": "Charlotte",
+        "fullName": "Charlotte Hornets",
+        "tricode": "CHA",
+        "teamId": "1610612766",
+        "nickname": "Hornets",
+        "urlName": "hornets",
+        "teamShortName": "Charlotte",
+        "confName": "East",
+        "divName": "Southeast"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Chicago",
+        "altCityName": "Chicago",
+        "fullName": "Chicago Bulls",
+        "tricode": "CHI",
+        "teamId": "1610612741",
+        "nickname": "Bulls",
+        "urlName": "bulls",
+        "teamShortName": "Chicago",
+        "confName": "East",
+        "divName": "Central"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Cleveland",
+        "altCityName": "Cleveland",
+        "fullName": "Cleveland Cavaliers",
+        "tricode": "CLE",
+        "teamId": "1610612739",
+        "nickname": "Cavaliers",
+        "urlName": "cavaliers",
+        "teamShortName": "Cleveland",
+        "confName": "East",
+        "divName": "Central"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Dallas",
+        "altCityName": "Dallas",
+        "fullName": "Dallas Mavericks",
+        "tricode": "DAL",
+        "teamId": "1610612742",
+        "nickname": "Mavericks",
+        "urlName": "mavericks",
+        "teamShortName": "Dallas",
+        "confName": "West",
+        "divName": "Southwest"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Denver",
+        "altCityName": "Denver",
+        "fullName": "Denver Nuggets",
+        "tricode": "DEN",
+        "teamId": "1610612743",
+        "nickname": "Nuggets",
+        "urlName": "nuggets",
+        "teamShortName": "Denver",
+        "confName": "West",
+        "divName": "Northwest"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Detroit",
+        "altCityName": "Detroit",
+        "fullName": "Detroit Pistons",
+        "tricode": "DET",
+        "teamId": "1610612765",
+        "nickname": "Pistons",
+        "urlName": "pistons",
+        "teamShortName": "Detroit",
+        "confName": "East",
+        "divName": "Central"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Golden State",
+        "altCityName": "Golden State",
+        "fullName": "Golden State Warriors",
+        "tricode": "GSW",
+        "teamId": "1610612744",
+        "nickname": "Warriors",
+        "urlName": "warriors",
+        "teamShortName": "Golden State",
+        "confName": "West",
+        "divName": "Pacific"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Houston",
+        "altCityName": "Houston",
+        "fullName": "Houston Rockets",
+        "tricode": "HOU",
+        "teamId": "1610612745",
+        "nickname": "Rockets",
+        "urlName": "rockets",
+        "teamShortName": "Houston",
+        "confName": "West",
+        "divName": "Southwest"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Indiana",
+        "altCityName": "Indiana",
+        "fullName": "Indiana Pacers",
+        "tricode": "IND",
+        "teamId": "1610612754",
+        "nickname": "Pacers",
+        "urlName": "pacers",
+        "teamShortName": "Indiana",
+        "confName": "East",
+        "divName": "Central"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "LA",
+        "altCityName": "LA Clippers",
+        "fullName": "LA Clippers",
+        "tricode": "LAC",
+        "teamId": "1610612746",
+        "nickname": "Clippers",
+        "urlName": "clippers",
+        "teamShortName": "LA Clippers",
+        "confName": "West",
+        "divName": "Pacific"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Los Angeles",
+        "altCityName": "Los Angeles Lakers",
+        "fullName": "Los Angeles Lakers",
+        "tricode": "LAL",
+        "teamId": "1610612747",
+        "nickname": "Lakers",
+        "urlName": "lakers",
+        "teamShortName": "L.A. Lakers",
+        "confName": "West",
+        "divName": "Pacific"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Memphis",
+        "altCityName": "Memphis",
+        "fullName": "Memphis Grizzlies",
+        "tricode": "MEM",
+        "teamId": "1610612763",
+        "nickname": "Grizzlies",
+        "urlName": "grizzlies",
+        "teamShortName": "Memphis",
+        "confName": "West",
+        "divName": "Southwest"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Miami",
+        "altCityName": "Miami",
+        "fullName": "Miami Heat",
+        "tricode": "MIA",
+        "teamId": "1610612748",
+        "nickname": "Heat",
+        "urlName": "heat",
+        "teamShortName": "Miami",
+        "confName": "East",
+        "divName": "Southeast"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Milwaukee",
+        "altCityName": "Milwaukee",
+        "fullName": "Milwaukee Bucks",
+        "tricode": "MIL",
+        "teamId": "1610612749",
+        "nickname": "Bucks",
+        "urlName": "bucks",
+        "teamShortName": "Milwaukee",
+        "confName": "East",
+        "divName": "Central"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Minnesota",
+        "altCityName": "Minnesota",
+        "fullName": "Minnesota Timberwolves",
+        "tricode": "MIN",
+        "teamId": "1610612750",
+        "nickname": "Timberwolves",
+        "urlName": "timberwolves",
+        "teamShortName": "Minnesota",
+        "confName": "West",
+        "divName": "Northwest"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "New Orleans",
+        "altCityName": "New Orleans",
+        "fullName": "New Orleans Pelicans",
+        "tricode": "NOP",
+        "teamId": "1610612740",
+        "nickname": "Pelicans",
+        "urlName": "pelicans",
+        "teamShortName": "New Orleans",
+        "confName": "West",
+        "divName": "Southwest"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "New York",
+        "altCityName": "New York",
+        "fullName": "New York Knicks",
+        "tricode": "NYK",
+        "teamId": "1610612752",
+        "nickname": "Knicks",
+        "urlName": "knicks",
+        "teamShortName": "New York",
+        "confName": "East",
+        "divName": "Atlantic"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Oklahoma City",
+        "altCityName": "Oklahoma City",
+        "fullName": "Oklahoma City Thunder",
+        "tricode": "OKC",
+        "teamId": "1610612760",
+        "nickname": "Thunder",
+        "urlName": "thunder",
+        "teamShortName": "Oklahoma City",
+        "confName": "West",
+        "divName": "Northwest"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Orlando",
+        "altCityName": "Orlando",
+        "fullName": "Orlando Magic",
+        "tricode": "ORL",
+        "teamId": "1610612753",
+        "nickname": "Magic",
+        "urlName": "magic",
+        "teamShortName": "Orlando",
+        "confName": "East",
+        "divName": "Southeast"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Philadelphia",
+        "altCityName": "Philadelphia",
+        "fullName": "Philadelphia 76ers",
+        "tricode": "PHI",
+        "teamId": "1610612755",
+        "nickname": "76ers",
+        "urlName": "sixers",
+        "teamShortName": "Philadelphia",
+        "confName": "East",
+        "divName": "Atlantic"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Phoenix",
+        "altCityName": "Phoenix",
+        "fullName": "Phoenix Suns",
+        "tricode": "PHX",
+        "teamId": "1610612756",
+        "nickname": "Suns",
+        "urlName": "suns",
+        "teamShortName": "Phoenix",
+        "confName": "West",
+        "divName": "Pacific"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Portland",
+        "altCityName": "Portland",
+        "fullName": "Portland Trail Blazers",
+        "tricode": "POR",
+        "teamId": "1610612757",
+        "nickname": "Trail Blazers",
+        "urlName": "blazers",
+        "teamShortName": "Portland",
+        "confName": "West",
+        "divName": "Northwest"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Sacramento",
+        "altCityName": "Sacramento",
+        "fullName": "Sacramento Kings",
+        "tricode": "SAC",
+        "teamId": "1610612758",
+        "nickname": "Kings",
+        "urlName": "kings",
+        "teamShortName": "Sacramento",
+        "confName": "West",
+        "divName": "Pacific"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "San Antonio",
+        "altCityName": "San Antonio",
+        "fullName": "San Antonio Spurs",
+        "tricode": "SAS",
+        "teamId": "1610612759",
+        "nickname": "Spurs",
+        "urlName": "spurs",
+        "teamShortName": "San Antonio",
+        "confName": "West",
+        "divName": "Southwest"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Toronto",
+        "altCityName": "Toronto",
+        "fullName": "Toronto Raptors",
+        "tricode": "TOR",
+        "teamId": "1610612761",
+        "nickname": "Raptors",
+        "urlName": "raptors",
+        "teamShortName": "Toronto",
+        "confName": "East",
+        "divName": "Atlantic"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Utah",
+        "altCityName": "Utah",
+        "fullName": "Utah Jazz",
+        "tricode": "UTA",
+        "teamId": "1610612762",
+        "nickname": "Jazz",
+        "urlName": "jazz",
+        "teamShortName": "Utah",
+        "confName": "West",
+        "divName": "Northwest"
+    },
+    {
+        "isNBAFranchise": true,
+        "isAllStar": false,
+        "city": "Golden State",
+        "altCityName": "Golden State",
+        "fullName": "Golden State Warriors",
+        "tricode": "GSW",
+        "teamId": "1610612744",
+        "nickname": "Warriors",
+        "urlName": "warriors",
+        "teamShortName": "Golden State",
+        "confName": "California",
+        "divName": ""
+    }
+  ],
+  "news": [
+    {
+        "newsId": "1",
+        "newsTitle": "NBA DFS Picks: Yahoo plays for tonight's 13-game slate",
+        "newsURL": "https://www.nba.com/news/nba-dfs-picks-yahoo-plays-for-november-9",
+        "newsBrief": "RotoWire gives insight on key players and values for Yahoo NBA DFS ahead of tonight's 13-game slate.",
+        "newsDate": "November 10, 2022 5:23 AM"
+    },
+    {
+        "newsId": "2",
+        "newsTitle": "NBA DraftKings & FanDuel DFS Primer: (11/9) ",
+        "newsURL": "https://www.nba.com/news/nba-draftkings-fanduel-dfs-primer-wednesday-11-9",
+        "newsBrief": "FantasyPros walks through the best player values for DraftKings and FanDuel NBA DFS.",
+        "newsDate": "November 10, 2022 2:23 AM"
+    },
+    {
+        "newsId": "3",
+        "newsTitle": "FanDuel plays and lineup strategy for Wednesday",
+        "newsURL": "https://www.nba.com/news/nba-dfs-picks-fanduel-plays-and-lineup-strategy-for-november-9",
+        "newsBrief": "Rotowire walks through the best player values for DraftKings and FanDuel NBA DFS.",
+        "newsDate": "November 10, 2022 1:58 AM"
+    },
+    {
+        "newsId": "4",
+        "newsTitle": "Phil Knight: Nike-Kyrie relationship likely done",
+        "newsURL": "https://www.nba.com/news/nike-co-founder-phil-knight-says-kyrie-irving-relationship-likely-finished",
+        "newsBrief": "Irving was suspended by Nike following the fallout of the guard's comments.",
+        "newsDate": "November 11, 2022 12:08 AM"
+    },
+    {
+        "newsId": "5",
+        "newsTitle": "FanDuel plays and lineup strategy for Wednesday",
+        "newsURL": "https://www.nba.com/news/nba-dfs-picks-fanduel-plays-and-lineup-strategy-for-november-9",
+        "newsBrief": "Rotowire walks through the best player values for DraftKings and FanDuel NBA DFS.",
+        "newsDate": "November 10, 2022 1:58 AM"
+    },
+    {
+        "newsId": "6",
+        "newsTitle": "NBA DFS Picks: Yahoo plays for tonight's 13-game slate",
+        "newsURL": "https://www.nba.com/news/nba-dfs-picks-yahoo-plays-for-november-9",
+        "newsBrief": "RotoWire gives insight on key players and values for Yahoo NBA DFS ahead of tonight's 13-game slate.",
+        "newsDate": "November 10, 2022 5:23 AM"
+    },
+    {
+        "newsId": "7",
+        "newsTitle": "NBA DraftKings & FanDuel DFS Primer: (11/9) ",
+        "newsURL": "https://www.nba.com/news/nba-draftkings-fanduel-dfs-primer-wednesday-11-9",
+        "newsBrief": "FantasyPros walks through the best player values for DraftKings and FanDuel NBA DFS.",
+        "newsDate": "November 10, 2022 2:23 AM"
+    },
+    {
+        "newsId": "8",
+        "newsTitle": "FanDuel plays and lineup strategy for Wednesday",
+        "newsURL": "https://www.nba.com/news/nba-dfs-picks-fanduel-plays-and-lineup-strategy-for-november-9",
+        "newsBrief": "Rotowire walks through the best player values for DraftKings and FanDuel NBA DFS.",
+        "newsDate": "November 10, 2022 1:58 AM"
+    },
+    {
+        "newsId": "9",
+        "newsTitle": "Phil Knight: Nike-Kyrie relationship likely done",
+        "newsURL": "https://www.nba.com/news/nike-co-founder-phil-knight-says-kyrie-irving-relationship-likely-finished",
+        "newsBrief": "Irving was suspended by Nike following the fallout of the guard's comments.",
+        "newsDate": "November 11, 2022 12:08 AM"
+    },
+    {
+        "newsId": "10",
+        "newsTitle": "FanDuel plays and lineup strategy for Wednesday",
+        "newsURL": "https://www.nba.com/news/nba-dfs-picks-fanduel-plays-and-lineup-strategy-for-november-9",
+        "newsBrief": "Rotowire walks through the best player values for DraftKings and FanDuel NBA DFS.",
+        "newsDate": "November 10, 2022 1:58 AM"
+    }
+  ],
+  "scoreboard":[
+    {
+        "gameDate": "2022-11-13",
+        "games": [
+            {
+                "gameId": "0022200192",
+                "gameCode": "20221113/OKCNYK",
+                "gameStatus": 3,
+                "gameStatusText": "Final",
+                "period": 4,
+                "gameClock": "",
+                "gameTimeUTC": "2022-11-13T17:00:00Z",
+                "gameEt": "2022-11-13T12:00:00Z",
+                "regulationPeriods": 4,
+                "ifNecessary": false,
+                "seriesGameNumber": "",
+                "seriesText": "",
+                "homeTeam": {
+                    "teamId": 1610612752,
+                    "teamName": "Knicks",
+                    "teamCity": "New York",
+                    "teamTricode": "NYK",
+                    "wins": 6,
+                    "losses": 7,
+                    "score": 135,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 48
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 25
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 33
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 29
+                        }
+                    ]
+                },
+                "awayTeam": {
+                    "teamId": 1610612760,
+                    "teamName": "Thunder",
+                    "teamCity": "Oklahoma City",
+                    "teamTricode": "OKC",
+                    "wins": 6,
+                    "losses": 7,
+                    "score": 145,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 36
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 43
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 43
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 23
+                        }
+                    ]
+                },
+                "gameLeaders": {
+                    "homeLeaders": {
+                        "personId": 203944,
+                        "name": "Julius Randle",
+                        "jerseyNum": "30",
+                        "position": "F-C",
+                        "teamTricode": "NYK",
+                        "playerSlug": null,
+                        "points": 25,
+                        "rebounds": 10,
+                        "assists": 3
+                    },
+                    "awayLeaders": {
+                        "personId": 1628983,
+                        "name": "Shai Gilgeous-Alexander",
+                        "jerseyNum": "2",
+                        "position": "G",
+                        "teamTricode": "OKC",
+                        "playerSlug": null,
+                        "points": 37,
+                        "rebounds": 5,
+                        "assists": 8
+                    }
+                },
+                "pbOdds": {
+                    "team": null,
+                    "odds": 0,
+                    "suspended": 0
+                }
+            },
+            {
+                "gameId": "0022200193",
+                "gameCode": "20221113/MINCLE",
+                "gameStatus": 3,
+                "gameStatusText": "Final",
+                "period": 4,
+                "gameClock": "",
+                "gameTimeUTC": "2022-11-13T23:00:00Z",
+                "gameEt": "2022-11-13T18:00:00Z",
+                "regulationPeriods": 4,
+                "ifNecessary": false,
+                "seriesGameNumber": "",
+                "seriesText": "",
+                "homeTeam": {
+                    "teamId": 1610612739,
+                    "teamName": "Cavaliers",
+                    "teamCity": "Cleveland",
+                    "teamTricode": "CLE",
+                    "wins": 8,
+                    "losses": 5,
+                    "score": 124,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 20
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 30
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 34
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 40
+                        }
+                    ]
+                },
+                "awayTeam": {
+                    "teamId": 1610612750,
+                    "teamName": "Timberwolves",
+                    "teamCity": "Minnesota",
+                    "teamTricode": "MIN",
+                    "wins": 6,
+                    "losses": 8,
+                    "score": 129,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 40
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 27
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 37
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 25
+                        }
+                    ]
+                },
+                "gameLeaders": {
+                    "homeLeaders": {
+                        "personId": 1629636,
+                        "name": "Darius Garland",
+                        "jerseyNum": "10",
+                        "position": "G",
+                        "teamTricode": "CLE",
+                        "playerSlug": null,
+                        "points": 51,
+                        "rebounds": 2,
+                        "assists": 6
+                    },
+                    "awayLeaders": {
+                        "personId": 1626157,
+                        "name": "Karl-Anthony Towns",
+                        "jerseyNum": "32",
+                        "position": "C-F",
+                        "teamTricode": "MIN",
+                        "playerSlug": null,
+                        "points": 29,
+                        "rebounds": 13,
+                        "assists": 3
+                    }
+                },
+                "pbOdds": {
+                    "team": null,
+                    "odds": 0,
+                    "suspended": 0
+                }
+            },
+            {
+                "gameId": "0022200194",
+                "gameCode": "20221113/MEMWAS",
+                "gameStatus": 3,
+                "gameStatusText": "Final",
+                "period": 4,
+                "gameClock": "",
+                "gameTimeUTC": "2022-11-13T23:00:00Z",
+                "gameEt": "2022-11-13T18:00:00Z",
+                "regulationPeriods": 4,
+                "ifNecessary": false,
+                "seriesGameNumber": "",
+                "seriesText": "",
+                "homeTeam": {
+                    "teamId": 1610612764,
+                    "teamName": "Wizards",
+                    "teamCity": "Washington",
+                    "teamTricode": "WAS",
+                    "wins": 8,
+                    "losses": 6,
+                    "score": 102,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 23
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 32
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 27
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 20
+                        }
+                    ]
+                },
+                "awayTeam": {
+                    "teamId": 1610612763,
+                    "teamName": "Grizzlies",
+                    "teamCity": "Memphis",
+                    "teamTricode": "MEM",
+                    "wins": 9,
+                    "losses": 5,
+                    "score": 92,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 19
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 32
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 23
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 18
+                        }
+                    ]
+                },
+                "gameLeaders": {
+                    "homeLeaders": {
+                        "personId": 204001,
+                        "name": "Kristaps Porzingis",
+                        "jerseyNum": "6",
+                        "position": "F-C",
+                        "teamTricode": "WAS",
+                        "playerSlug": null,
+                        "points": 25,
+                        "rebounds": 6,
+                        "assists": 2
+                    },
+                    "awayLeaders": {
+                        "personId": 203500,
+                        "name": "Steven Adams",
+                        "jerseyNum": "4",
+                        "position": "C",
+                        "teamTricode": "MEM",
+                        "playerSlug": null,
+                        "points": 12,
+                        "rebounds": 10,
+                        "assists": 6
+                    }
+                },
+                "pbOdds": {
+                    "team": null,
+                    "odds": 0,
+                    "suspended": 0
+                }
+            },
+            {
+                "gameId": "0022200195",
+                "gameCode": "20221113/UTAPHI",
+                "gameStatus": 3,
+                "gameStatusText": "Final",
+                "period": 4,
+                "gameClock": "",
+                "gameTimeUTC": "2022-11-14T00:30:00Z",
+                "gameEt": "2022-11-13T19:30:00Z",
+                "regulationPeriods": 4,
+                "ifNecessary": false,
+                "seriesGameNumber": "",
+                "seriesText": "",
+                "homeTeam": {
+                    "teamId": 1610612755,
+                    "teamName": "76ers",
+                    "teamCity": "Philadelphia",
+                    "teamTricode": "PHI",
+                    "wins": 7,
+                    "losses": 7,
+                    "score": 105,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 1,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 26
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 25
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 27
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 27
+                        }
+                    ]
+                },
+                "awayTeam": {
+                    "teamId": 1610612762,
+                    "teamName": "Jazz",
+                    "teamCity": "Utah",
+                    "teamTricode": "UTA",
+                    "wins": 10,
+                    "losses": 5,
+                    "score": 98,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 30
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 27
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 21
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 20
+                        }
+                    ]
+                },
+                "gameLeaders": {
+                    "homeLeaders": {
+                        "personId": 203954,
+                        "name": "Joel Embiid",
+                        "jerseyNum": "21",
+                        "position": "C-F",
+                        "teamTricode": "PHI",
+                        "playerSlug": null,
+                        "points": 59,
+                        "rebounds": 11,
+                        "assists": 8
+                    },
+                    "awayLeaders": {
+                        "personId": 1628374,
+                        "name": "Lauri Markkanen",
+                        "jerseyNum": "23",
+                        "position": "F-C",
+                        "teamTricode": "UTA",
+                        "playerSlug": null,
+                        "points": 15,
+                        "rebounds": 10,
+                        "assists": 0
+                    }
+                },
+                "pbOdds": {
+                    "team": null,
+                    "odds": 0,
+                    "suspended": 0
+                }
+            },
+            {
+                "gameId": "0022200196",
+                "gameCode": "20221113/DENCHI",
+                "gameStatus": 3,
+                "gameStatusText": "Final",
+                "period": 4,
+                "gameClock": "",
+                "gameTimeUTC": "2022-11-14T01:00:00Z",
+                "gameEt": "2022-11-13T20:00:00Z",
+                "regulationPeriods": 4,
+                "ifNecessary": false,
+                "seriesGameNumber": "",
+                "seriesText": "",
+                "homeTeam": {
+                    "teamId": 1610612741,
+                    "teamName": "Bulls",
+                    "teamCity": "Chicago",
+                    "teamTricode": "CHI",
+                    "wins": 6,
+                    "losses": 8,
+                    "score": 103,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 20
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 27
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 29
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 27
+                        }
+                    ]
+                },
+                "awayTeam": {
+                    "teamId": 1610612743,
+                    "teamName": "Nuggets",
+                    "teamCity": "Denver",
+                    "teamTricode": "DEN",
+                    "wins": 9,
+                    "losses": 4,
+                    "score": 126,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 1,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 32
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 30
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 35
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 29
+                        }
+                    ]
+                },
+                "gameLeaders": {
+                    "homeLeaders": {
+                        "personId": 203897,
+                        "name": "Zach LaVine",
+                        "jerseyNum": "8",
+                        "position": "G-F",
+                        "teamTricode": "CHI",
+                        "playerSlug": null,
+                        "points": 21,
+                        "rebounds": 5,
+                        "assists": 4
+                    },
+                    "awayLeaders": {
+                        "personId": 1629008,
+                        "name": "Michael Porter Jr.",
+                        "jerseyNum": "1",
+                        "position": "F",
+                        "teamTricode": "DEN",
+                        "playerSlug": null,
+                        "points": 31,
+                        "rebounds": 1,
+                        "assists": 2
+                    }
+                },
+                "pbOdds": {
+                    "team": null,
+                    "odds": 0,
+                    "suspended": 0
+                }
+            },
+            {
+                "gameId": "0022200197",
+                "gameCode": "20221113/GSWSAC",
+                "gameStatus": 3,
+                "gameStatusText": "Final",
+                "period": 4,
+                "gameClock": "",
+                "gameTimeUTC": "2022-11-14T02:00:00Z",
+                "gameEt": "2022-11-13T21:00:00Z",
+                "regulationPeriods": 4,
+                "ifNecessary": false,
+                "seriesGameNumber": "",
+                "seriesText": "",
+                "homeTeam": {
+                    "teamId": 1610612758,
+                    "teamName": "Kings",
+                    "teamCity": "Sacramento",
+                    "teamTricode": "SAC",
+                    "wins": 6,
+                    "losses": 6,
+                    "score": 122,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 1,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 26
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 38
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 34
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 24
+                        }
+                    ]
+                },
+                "awayTeam": {
+                    "teamId": 1610612744,
+                    "teamName": "Warriors",
+                    "teamCity": "Golden State",
+                    "teamTricode": "GSW",
+                    "wins": 5,
+                    "losses": 8,
+                    "score": 115,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 39
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 23
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 29
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 24
+                        }
+                    ]
+                },
+                "gameLeaders": {
+                    "homeLeaders": {
+                        "personId": 1627734,
+                        "name": "Domantas Sabonis",
+                        "jerseyNum": "10",
+                        "position": "F-C",
+                        "teamTricode": "SAC",
+                        "playerSlug": null,
+                        "points": 26,
+                        "rebounds": 22,
+                        "assists": 8
+                    },
+                    "awayLeaders": {
+                        "personId": 201939,
+                        "name": "Stephen Curry",
+                        "jerseyNum": "30",
+                        "position": "G",
+                        "teamTricode": "GSW",
+                        "playerSlug": null,
+                        "points": 27,
+                        "rebounds": 6,
+                        "assists": 4
+                    }
+                },
+                "pbOdds": {
+                    "team": null,
+                    "odds": 0,
+                    "suspended": 0
+                }
+            },
+            {
+                "gameId": "0022200198",
+                "gameCode": "20221113/BKNLAL",
+                "gameStatus": 3,
+                "gameStatusText": "Final",
+                "period": 4,
+                "gameClock": "",
+                "gameTimeUTC": "2022-11-14T02:30:00Z",
+                "gameEt": "2022-11-13T21:30:00Z",
+                "regulationPeriods": 4,
+                "ifNecessary": false,
+                "seriesGameNumber": "",
+                "seriesText": "",
+                "homeTeam": {
+                    "teamId": 1610612747,
+                    "teamName": "Lakers",
+                    "teamCity": "Los Angeles",
+                    "teamTricode": "LAL",
+                    "wins": 3,
+                    "losses": 10,
+                    "score": 116,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 1,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 26
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 29
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 25
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 36
+                        }
+                    ]
+                },
+                "awayTeam": {
+                    "teamId": 1610612751,
+                    "teamName": "Nets",
+                    "teamCity": "Brooklyn",
+                    "teamTricode": "BKN",
+                    "wins": 6,
+                    "losses": 8,
+                    "score": 103,
+                    "seed": null,
+                    "inBonus": null,
+                    "timeoutsRemaining": 0,
+                    "periods": [
+                        {
+                            "period": 1,
+                            "periodType": "REGULAR",
+                            "score": 22
+                        },
+                        {
+                            "period": 2,
+                            "periodType": "REGULAR",
+                            "score": 24
+                        },
+                        {
+                            "period": 3,
+                            "periodType": "REGULAR",
+                            "score": 31
+                        },
+                        {
+                            "period": 4,
+                            "periodType": "REGULAR",
+                            "score": 26
+                        }
+                    ]
+                },
+                "gameLeaders": {
+                    "homeLeaders": {
+                        "personId": 203076,
+                        "name": "Anthony Davis",
+                        "jerseyNum": "3",
+                        "position": "F-C",
+                        "teamTricode": "LAL",
+                        "playerSlug": null,
+                        "points": 37,
+                        "rebounds": 18,
+                        "assists": 2
+                    },
+                    "awayLeaders": {
+                        "personId": 201142,
+                        "name": "Kevin Durant",
+                        "jerseyNum": "7",
+                        "position": "F",
+                        "teamTricode": "BKN",
+                        "playerSlug": null,
+                        "points": 31,
+                        "rebounds": 9,
+                        "assists": 7
+                    }
+                },
+                "pbOdds": {
+                    "team": null,
+                    "odds": 0,
+                    "suspended": 0
+                }
+            }
+        ]
+    }
+  ]
+
+}
