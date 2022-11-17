@@ -1,10 +1,14 @@
 # NBA Front end Design
 
-#Home
+Home
 ![image](https://raw.githubusercontent.com/WeiHenSu/nba/main/nba/src/assets/index.png)
-#-------------------------------------------------------------------------------------
-#Teams
+
+-------------------------------------------------------------------------------------
+
+Teams
 ![image](https://raw.githubusercontent.com/WeiHenSu/nba/main/nba/src/assets/teams.png)
-#-------------------------------------------------------------------------------------
-#News
+
+-------------------------------------------------------------------------------------
+
+News
 ![image](https://raw.githubusercontent.com/WeiHenSu/nba/main/nba/src/assets/news.png)
