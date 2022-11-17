@@ -1,5 +1,5 @@
 # NBA Front end Design
-`Vue2進行開發，使用Json-server模擬RESTful API　printf()`
+`Vue2進行開發，使用Json-server模擬RESTful API`
 
 
 ## Home
